@@ -1,1 +1,1 @@
-# spacecraft-icons
+# open-spacecraft-icons
